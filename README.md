@@ -1,5 +1,6 @@
 # Offensive and Defensive Security Lab
 
+**Contributor:** Tanish Ahuja  
 **Course Code:** COM-512  
 **Course:** Offensive Defensive Security Lab  
 **Program:** B.Tech CSE (Cyber Security)  
