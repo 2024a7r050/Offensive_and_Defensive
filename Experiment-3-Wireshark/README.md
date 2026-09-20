@@ -156,6 +156,12 @@ The captured file can be retained as evidence for the lab report.
 
 Network traffic was successfully captured and analyzed using Wireshark. HTTP, FTP, Telnet and other network traffic were examined in the controlled lab environment.
 
+### Wireshark Capture File
+
+The complete Wireshark packet capture is available here:
+
+[Download lab_capture.pcap](lab_capture.pcap)
+
 ## Conclusion
 
 The experiment demonstrated how Wireshark can be used to capture network packets, analyze protocols and identify information transmitted through network traffic.
