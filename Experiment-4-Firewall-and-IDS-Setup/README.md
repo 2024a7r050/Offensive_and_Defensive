@@ -70,8 +70,6 @@ The screenshot shows successful ping replies and Nmap scan results.
 ### Step 7 — Check Snort alerts
 Open **Services → Snort → Alerts**, select the LAN interface, and inspect the log after generating traffic. If no alerts appear, verify that Snort is running, rulesets are downloaded/enabled, and the correct interface is selected. Not every scan necessarily triggers an alert.
 
-**Evidence still needed:** Take a screenshot of the Snort Alerts page after testing. Do not claim that an alert was detected unless it appears in the log.
-
 ## Result
 pfSense interfaces were configured, a LAN firewall rule was created, Snort was installed and configured on the LAN interface, and test traffic was generated from Kali Linux to Metasploitable 2.
 
